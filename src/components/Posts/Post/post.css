@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Noto+Serif&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Patrick+Hand&display=swap");
+.stage {
+  text-align: center;
+  margin-left: -8px;
+}
+.a {
+  line-height: 1.2em;
+  letter-spacing: 0.06em;
+  font-family: "Lato", sans-serif;
+  font-weight: 800;
+  font-size: 1.2rem;
+  text-decoration: none;
+  /* background-color: #0069d9; */
+  color: #f7f7fe;
+  display: inline-block;
+  padding: 10px 0px 10px 8px;
+  transition: background 200ms;
+  border-radius: 4px;
+}
+.p {
+  background-color: #100f10;
+  color: #f7f7fe;
+}
+.p .tag {
+  color: #f7f7fe;
+  font-family: "Akaya Telivigala", cursive;
+  font-size: 1rem;
+}
+.tit {
+  font-family: "Abril Fatface", cursive;
+}
